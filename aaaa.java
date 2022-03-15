@@ -9,7 +9,6 @@ public class aaaa {
         Random random = new Random();
         Scanner scan = new Scanner(System.in);
         int x = 0;
-        aaaa a = new aaaa();
         int minRange = 1;
         int maxRange = 100;
 
